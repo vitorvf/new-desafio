@@ -1,0 +1,105 @@
+{
+  "status": {
+    "timestamp": "2024-01-10T05:24:49.650Z",
+    "error_code": 0,
+    "error_message": null,
+    "elapsed": 14,
+    "credit_count": 1,
+    "notice": null
+  },
+  "data": {
+    "XMR": [
+      {
+        "id": 328,
+        "name": "Monero",
+        "symbol": "XMR",
+        "category": "coin",
+        "description": "Monero (XMR) is a cryptocurrency . Users are able to generate XMR through the process of mining. Monero has a current supply of 18,382,360.4747757. The last known price of Monero is 147.16963758 USD and is down -0.48 over the last 24 hours. It is currently trading on 262 active market(s) with $101,328,016.57 traded over the last 24 hours. More information can be found at https://www.getmonero.org/.",
+        "slug": "monero",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/328.png",
+        "subreddit": "monero",
+        "notice": "",
+        "tags": [
+          "mineable",
+          "pow",
+          "medium-of-exchange",
+          "privacy",
+          "ringct",
+          "boostvc-portfolio",
+          "electric-capital-portfolio",
+          "galaxy-digital-portfolio"
+        ],
+        "tag-names": [
+          "Mineable",
+          "PoW",
+          "Medium of Exchange",
+          "Privacy",
+          "RingCT",
+          "BoostVC Portfolio",
+          "Electric Capital Portfolio",
+          "Galaxy Digital Portfolio"
+        ],
+        "tag-groups": [
+          "OTHERS",
+          "ALGORITHM",
+          "INDUSTRY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY"
+        ],
+        "urls": {
+          "website": ["https://www.getmonero.org/"],
+          "twitter": ["https://twitter.com/monero"],
+          "message_board": [
+            "https://forum.getmonero.org/",
+            "https://forum.monero.space/"
+          ],
+          "chat": ["https://telegram.me/monero"],
+          "facebook": [],
+          "explorer": [
+            "http://moneroblocks.info/",
+            "http://chainradar.com/xmr/blocks",
+            "https://blockchair.com/monero"
+          ],
+          "reddit": ["https://reddit.com/r/monero"],
+          "technical_doc": [
+            "https://github.com/monero-project/research-lab/blob/master/whitepaper/whitepaper.pdf"
+          ],
+          "source_code": ["https://github.com/monero-project/monero"],
+          "announcement": ["https://bitcointalk.org/index.php?topic=583449.0"]
+        },
+        "platform": {
+          "id": "5604",
+          "name": "Secret",
+          "slug": "secret",
+          "symbol": "SCRT",
+          "token_address": "secret19ungtd2c7srftqdwgq0dspwvrw63dhu79qxv88"
+        },
+        "date_added": "2014-05-21T00:00:00.000Z",
+        "twitter_username": "monero",
+        "is_hidden": 0,
+        "date_launched": null,
+        "contract_address": [
+          {
+            "contract_address": "secret19ungtd2c7srftqdwgq0dspwvrw63dhu79qxv88",
+            "platform": {
+              "name": "Secret",
+              "coin": {
+                "id": "5604",
+                "name": "Secret",
+                "symbol": "SCRT",
+                "slug": "secret"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": null,
+        "self_reported_tags": null,
+        "self_reported_market_cap": null,
+        "infinite_supply": true
+      }
+    ]
+  }
+}

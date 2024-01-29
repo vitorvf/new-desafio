@@ -1,0 +1,134 @@
+{
+  "status": {
+    "timestamp": "2024-01-10T05:23:53.920Z",
+    "error_code": 0,
+    "error_message": null,
+    "elapsed": 12,
+    "credit_count": 1,
+    "notice": null
+  },
+  "data": {
+    "ZEC": [
+      {
+        "id": 1437,
+        "name": "Zcash",
+        "symbol": "ZEC",
+        "category": "coin",
+        "description": "Zcash (ZEC) is a cryptocurrency . Users are able to generate ZEC through the process of mining. Zcash has a current supply of 16,328,268.75. The last known price of Zcash is 20.14953144 USD and is down -4.49 over the last 24 hours. It is currently trading on 331 active market(s) with $82,496,406.89 traded over the last 24 hours. More information can be found at https://z.cash/.",
+        "slug": "zcash",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1437.png",
+        "subreddit": "zec",
+        "notice": "",
+        "tags": [
+          "mineable",
+          "pow",
+          "equihash",
+          "medium-of-exchange",
+          "privacy",
+          "zero-knowledge-proofs",
+          "binance-chain",
+          "boostvc-portfolio",
+          "dcg-portfolio",
+          "electric-capital-portfolio",
+          "fenbushi-capital-portfolio",
+          "hashkey-capital-portfolio",
+          "winklevoss-capital-portfolio",
+          "placeholder-ventures-portfolio",
+          "pantera-capital-portfolio",
+          "bnb-chain",
+          "standard-crypto-portfolio"
+        ],
+        "tag-names": [
+          "Mineable",
+          "PoW",
+          "Equihash",
+          "Medium of Exchange",
+          "Privacy",
+          "Zero Knowledge Proofs",
+          "Binance Chain",
+          "BoostVC Portfolio",
+          "DCG Portfolio",
+          "Electric Capital Portfolio",
+          "Fenbushi Capital Portfolio",
+          "Hashkey Capital Portfolio",
+          "Winklevoss Capital Portfolio",
+          "Placeholder Ventures Portfolio",
+          "Pantera Capital Portfolio",
+          "BNB Chain",
+          "Standard Crypto Portfolio"
+        ],
+        "tag-groups": [
+          "OTHERS",
+          "ALGORITHM",
+          "ALGORITHM",
+          "INDUSTRY",
+          "CATEGORY",
+          "CATEGORY",
+          "PLATFORM",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "CATEGORY",
+          "PLATFORM",
+          "CATEGORY"
+        ],
+        "urls": {
+          "website": ["https://z.cash/"],
+          "twitter": ["https://twitter.com/electriccoinco"],
+          "message_board": ["https://forum.z.cash/"],
+          "chat": [
+            "https://t.me/Zcash_Community",
+            "https://discord.com/invite/PhJY6Pm"
+          ],
+          "facebook": [],
+          "explorer": [
+            "https://zcashblockexplorer.com/",
+            "https://www.oklink.com/bsc/token/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+            "https://blockchair.com/zcash",
+            "https://bscscan.com/token/0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+            "https://blockexplorer.one/zcash/mainnet"
+          ],
+          "reddit": ["https://reddit.com/r/zec"],
+          "technical_doc": [
+            "https://github.com/zcash/zips/blob/master/protocol/protocol.pdf"
+          ],
+          "source_code": ["https://github.com/zcash/zcash"],
+          "announcement": ["https://discord.com/invite/na6QZNd"]
+        },
+        "platform": {
+          "id": "1839",
+          "name": "BNB",
+          "slug": "bnb",
+          "symbol": "BNB",
+          "token_address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb"
+        },
+        "date_added": "2016-10-29T00:00:00.000Z",
+        "twitter_username": "electriccoinco",
+        "is_hidden": 0,
+        "date_launched": null,
+        "contract_address": [
+          {
+            "contract_address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+            "platform": {
+              "name": "BNB Smart Chain (BEP20)",
+              "coin": {
+                "id": "1839",
+                "name": "BNB",
+                "symbol": "BNB",
+                "slug": "bnb"
+              }
+            }
+          }
+        ],
+        "self_reported_circulating_supply": null,
+        "self_reported_tags": null,
+        "self_reported_market_cap": null,
+        "infinite_supply": false
+      }
+    ]
+  }
+}
